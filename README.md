@@ -4,7 +4,7 @@
 
 I'm always crazy about beautiful dresses and glittering things. Thus I want to combine them together.
 This is a dress on which the LEDs blink in different colors or patterns according to the wearer's movement.
-I look forward to dancing in it.
+I look forward to see someone dancing in it.
 
 ### Technology
 
@@ -12,6 +12,7 @@ I look forward to dancing in it.
 - LEDs, or LED strips, or LED fibers will be fixed onto a dress or a skirt. 
 - Multiplexers might be used to connect a large amount of LEDs.
 - Programming in Arduino to define colors and glittering pattern of LEDs according to signals of movement.
+- Time-lapse photography
 - Additionally, sounds might also be made according to movement. (Undecided. Silence is great. Too much sounds might be annoying sometimes.)
 
 ### Continuing
