@@ -8,7 +8,7 @@ I look forward to see someone dancing in it.
 
 ### Technology
 
-- A gyroscope sensor or an acceleration sensor will be used to detect the movement of the wearer.
+- A gyroscope sensor or an acceleration sensor (or any other sensors?) will be used to detect the movement of the wearer.
 - LEDs, or LED strips, or LED fibers will be fixed onto a dress or a skirt. 
 - Multiplexers might be used to connect a large amount of LEDs.
 - Programming in Arduino to define colors and glittering pattern of LEDs according to signals of movement.
