@@ -11,7 +11,7 @@ I look forward to see someone dancing in it.
 - A gyroscope sensor or an acceleration sensor (or any other sensors?) will be used to detect the movement of the wearer.
 - LEDs, or LED strips, or LED fibers will be fixed onto a dress or a skirt. 
 - Multiplexers might be used to connect a large amount of LEDs.
-- Programming in Arduino to define colors and glittering pattern of LEDs according to signals of movement.
+- Programming in Arduino and Processing to define colors and glittering pattern of LEDs according to signals of movement.
 - Time-lapse photography
 - Additionally, sounds might also be made according to movement. (Undecided. Silence is great. Too much sounds might be annoying sometimes.)
 
