@@ -1,6 +1,6 @@
 # Aurora Dress
 
-### Brief
+### Introduction
 
 Aurora Dress is a fantastical dress on which 44 LEDs blink in different colors and patterns according to the different movements of the wearer. It is a combination of art and science, or design and technology, to stimulate inspirations, excite imaginations, and create dreamy interactive experiences for users.
 
