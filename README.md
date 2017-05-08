@@ -26,7 +26,7 @@ Schemetic of BNO055 Absolute Orientation Sensor:
 - Connect the SCL pin to the I2C clock SCL pin on your Arduino. On an UNO & '328 based Arduino, this is also known as A5, on a Mega it is also known as digital 21 and on a Leonardo/Micro, digital 3
 - Connect the SDA pin to the I2C data SDA pin on your Arduino. On an UNO & '328 based Arduino, this is also known as A4, on a Mega it is also known as digital 20 andon a Leonardo/Micro, digital 2
 
-PCB:
+
 
 Connection of Adafruit NeoPixels:
 
