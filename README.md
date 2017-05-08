@@ -1,14 +1,16 @@
 # Aurora Dress
 
+![img_6211](https://cloud.githubusercontent.com/assets/23609156/25800359/d9bdf73e-339d-11e7-9859-b699cbb973bb.PNG)
+
 ### Videos
 
-Testing:
-
-https://www.instagram.com/p/BTUeVlJlBUN/?taken-by=vera_wei_wang&hl=en
-
-Final demostration at the Interface Show:
+Final demostration at the Interface Show: (I wore it.)
 
 https://www.instagram.com/p/BTx_3OsFZwy/?taken-by=vera_wei_wang&hl=en
+
+Testing different patterns: (on a female body model)
+
+https://www.instagram.com/p/BTUeVlJlBUN/?taken-by=vera_wei_wang&hl=en
 
 ### Introduction
 
@@ -64,7 +66,6 @@ With the development of science and technology, wearable technology is becoming 
 I sewed the sensor at the dress's waist, instead of at its hemline, so that it can detect the movements of the wearer immediately.  
 
 ![img_6169--](https://cloud.githubusercontent.com/assets/23609156/25799830/7e837396-339b-11e7-974b-2c309c25e4d5.jpg)
-
 
 ### Continuing
 
