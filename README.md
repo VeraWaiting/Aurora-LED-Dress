@@ -17,13 +17,30 @@ With the development of science and technology, wearable technology is becoming 
 
 ### Process
 
-Sketch:
+1. Sketch:
 
 ![led dress - sketch](https://cloud.githubusercontent.com/assets/23609156/23991460/b59e5536-09f6-11e7-823c-9412d0168fff.jpg)
 
-Schemetic:
+2. Schematic:
 
 ![led dress - schemetic - 1](https://cloud.githubusercontent.com/assets/23609156/25797229/26a64536-3391-11e7-9e99-c477fc43e763.jpg)
+
+3. Testing BNO055:
+
+4. Design the pattern (positions NeoPixels on the dress):
+
+5. Sewing NeoPixels onto a piece of cloth
+
+6. Soldering wires to connect NeoPixels
+
+7. Sewing the piece of cloth onto a dress
+
+8. Programming
+
+9. Sewing the BNO055 sensor, the Arduino Uno, and a power bank on the inside of the dress
+
+### Photos & Videos
+
 
 ### Continuing
 
