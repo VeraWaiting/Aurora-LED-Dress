@@ -6,6 +6,9 @@ Aurora Dress is a fantastical dress on which 44 LEDs blink in different colors a
 
 An absolute orientation sensor attached to the dress is used to detect Euler angles, accelerations, angular velocities, and angular accelerations of the wearer in different directions. Then an Arduino Uno processes these data and controls the blinking of 44 RGB Smart neoPixel LEDs to create different patterns: rainbow-like aurora for staying static, theatre chasing for jumping, wiping for spinning, etc.
 
+With the development of science and technology, wearable technology is becoming more and more popular. As are LED dresses. We have figured out many ways to make a dress blink, like sewing LEDs on to a dress, attaching fibre optics to a dress, even making cloth itself glow. But all of these existing LED dresses blink just by themselves and have no interaction with the wearer. I wanted to explore the relationship between humans and wearables, thus I designed this Smart Blinking Dress, which blinks in a more meaningful way by discovering and reflecting the wearer in every of his/her movements.
+
+
 ### Technology
 
 - An BNO055 absolute orientation sensor is used to detect the movement of the wearer.
