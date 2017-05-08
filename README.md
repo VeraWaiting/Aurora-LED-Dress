@@ -13,8 +13,7 @@ With the development of science and technology, wearable technology is becoming 
 
 - An BNO055 absolute orientation sensor is used to detect the movement of the wearer.
 - 44 Adafruit Smart neoPixels are solded and sewed onto a dress. 
-- Programming in Arduino to define colors and glittering pattern of LEDs according to signals of movement.
-- Time-lapse photography
+- New classes are written in Arduino to realize different patterns of the lights.
 
 ### Process
 
@@ -28,5 +27,5 @@ Schemetic:
 
 ### Continuing
 
-
-
+Time-lapse photography
+Mass production?
