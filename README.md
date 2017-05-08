@@ -51,14 +51,21 @@ With the development of science and technology, wearable technology is becoming 
 
 9. Sewing the BNO055 sensor, the Arduino Uno, and a power bank on the inside of the dress
 
-I sewed the sensor at the waist so that it can detect the movements of the wearer immediately.  
+I sewed the sensor at the dress's waist, instead of at its hemline, so that it can detect the movements of the wearer immediately.  
 
 ![img_6169--](https://cloud.githubusercontent.com/assets/23609156/25799830/7e837396-339b-11e7-974b-2c309c25e4d5.jpg)
 
 ### Videos
 
+Testing:
+
+https://www.instagram.com/p/BTUeVlJlBUN/?taken-by=vera_wei_wang&hl=en
+
+Final demostration at the Interface Show:
+
+https://www.instagram.com/p/BTx_3OsFZwy/?taken-by=vera_wei_wang&hl=en
 
 ### Continuing
 
-Time-lapse photography
-Mass production?
+- Time-lapse photography
+- Many people want it， so I'll try to reduce the cost and try mass production if I have chance.
