@@ -19,20 +19,9 @@ Sketch:
 
 ![led dress - sketch](https://cloud.githubusercontent.com/assets/23609156/23991460/b59e5536-09f6-11e7-823c-9412d0168fff.jpg)
 
-Schemetic of BNO055 Absolute Orientation Sensor:
+Schemetic:
 
-- Connect Vin to the power supply, 3-5V is fine. Use the same voltage that the microcontroller logic is based off of. For most Arduinos, that is 5V
-- Connect GND to common power/data ground
-- Connect the SCL pin to the I2C clock SCL pin on your Arduino. On an UNO & '328 based Arduino, this is also known as A5, on a Mega it is also known as digital 21 and on a Leonardo/Micro, digital 3
-- Connect the SDA pin to the I2C data SDA pin on your Arduino. On an UNO & '328 based Arduino, this is also known as A4, on a Mega it is also known as digital 20 andon a Leonardo/Micro, digital 2
-
-
-
-Connection of Adafruit NeoPixels:
-
-
-
-
+![led dress - schemetic - 1](https://cloud.githubusercontent.com/assets/23609156/25797229/26a64536-3391-11e7-9e99-c477fc43e763.jpg)
 
 ### Continuing
 
