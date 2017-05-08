@@ -1,5 +1,15 @@
 # Aurora Dress
 
+### Videos
+
+Testing:
+
+https://www.instagram.com/p/BTUeVlJlBUN/?taken-by=vera_wei_wang&hl=en
+
+Final demostration at the Interface Show:
+
+https://www.instagram.com/p/BTx_3OsFZwy/?taken-by=vera_wei_wang&hl=en
+
 ### Introduction
 
 Aurora Dress is a fantastical dress on which 44 LEDs blink in different colors and patterns according to the different movements of the wearer. It is a combination of art and science, or design and technology, to stimulate inspirations, excite imaginations, and create dreamy interactive experiences for users.
@@ -55,15 +65,6 @@ I sewed the sensor at the dress's waist, instead of at its hemline, so that it c
 
 ![img_6169--](https://cloud.githubusercontent.com/assets/23609156/25799830/7e837396-339b-11e7-974b-2c309c25e4d5.jpg)
 
-### Videos
-
-Testing:
-
-https://www.instagram.com/p/BTUeVlJlBUN/?taken-by=vera_wei_wang&hl=en
-
-Final demostration at the Interface Show:
-
-https://www.instagram.com/p/BTx_3OsFZwy/?taken-by=vera_wei_wang&hl=en
 
 ### Continuing
 
