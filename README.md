@@ -27,19 +27,35 @@ With the development of science and technology, wearable technology is becoming 
 
 3. Testing BNO055:
 
+![img_5789 copy](https://cloud.githubusercontent.com/assets/23609156/25799101/9ea7a280-3398-11e7-963e-e156c27f9bc4.jpg)
+
 4. Design the pattern (positions NeoPixels on the dress):
+
+![design pattern](https://cloud.githubusercontent.com/assets/23609156/25799197/eb480b2a-3398-11e7-9431-abc9033c4cf9.jpg)
 
 5. Sewing NeoPixels onto a piece of cloth
 
+![img_5879 -](https://cloud.githubusercontent.com/assets/23609156/25799284/4fcbda40-3399-11e7-84ff-86fc7f6ce0de.jpg)
+
 6. Soldering wires to connect NeoPixels
+
+![img_5883 copy](https://cloud.githubusercontent.com/assets/23609156/25799305/5fb3fbcc-3399-11e7-87f8-2cb4d5101e5f.jpg)
 
 7. Sewing the piece of cloth onto a dress
 
+![img_5941 copy](https://cloud.githubusercontent.com/assets/23609156/25799349/855802b0-3399-11e7-90cf-d3854c064890.jpg)
+
 8. Programming
+
+<img width="674" alt="screen shot 2017-05-08 at 3 01 24 am" src="https://cloud.githubusercontent.com/assets/23609156/25799640/a97b024a-339a-11e7-8e0b-087eb5a086dc.png">
 
 9. Sewing the BNO055 sensor, the Arduino Uno, and a power bank on the inside of the dress
 
-### Photos & Videos
+I sewed the sensor at the waist so that it can detect the movements of the wearer immediately.  
+
+![img_6169--](https://cloud.githubusercontent.com/assets/23609156/25799830/7e837396-339b-11e7-974b-2c309c25e4d5.jpg)
+
+### Videos
 
 
 ### Continuing
